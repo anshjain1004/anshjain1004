@@ -1,6 +1,6 @@
 # Hi, I'm Ansh Jain 👋
 
-CS undergrad (3rd year, Medicaps University) building full-stack and DSA-heavy projects — targeting SDE internships.
+CS undergrad (3rd year, Medicaps University) building full-stack and DSA-heavy projects.
 
 ## 🧰 Tech
 `C/C++` `Python` `JavaScript` `SQL` `ReactJS` `Node.js` `Express.js` `MySQL`
