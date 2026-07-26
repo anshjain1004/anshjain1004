@@ -1,13 +1,14 @@
-# Hi, I'm Ansh Jain 👋
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark" alt="Ansh Stats" />
+</p>
 
-CS undergrad (3rd year, Medicaps University) building full-stack and DSA-heavy projects.
+<!-- Language Breakdown Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-## 🧰 Tech
-`C/C++` `Python` `JavaScript` `SQL` `ReactJS` `Node.js` `Express.js` `MySQL`
-
-**Core CS:** Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · OOP
-
-## 📫 Reach me
-- LinkedIn: [ansh-jain-8a5344282](https://linkedin.com/in/ansh-jain-8a5344282)
-- LeetCode: [anshjain1004](https://leetcode.com/anshjain1004)
-- Email: en23cs301151@gmail.com
+<!-- Commit Streak Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark" alt="GitHub Streak" />
+</p>
