@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ansh Jain 👋
 
-<!--
-**anshjain1004/anshjain1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad (3rd year, Medicaps University) building full-stack and DSA-heavy projects — targeting SDE internships.
 
-Here are some ideas to get you started:
+## 🧰 Tech
+`C/C++` `Python` `JavaScript` `SQL` `ReactJS` `Node.js` `Express.js` `MySQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core CS:** Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · OOP
+
+## 📫 Reach me
+- LinkedIn: [ansh-jain-8a5344282](https://linkedin.com/in/ansh-jain-8a5344282)
+- LeetCode: [anshjain1004](https://leetcode.com/anshjain1004)
+- Email: en23cs301151@gmail.com
