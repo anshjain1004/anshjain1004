@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Jain</h1>
 <p align="center">
-  <b>CS Undergrad @ Medicaps University | Full-Stack Web Development & DSA in C++
+  <b>CS Undergrad @ Medicaps University | C++ & Systems | DSA</b>
 </p>
 
 <p align="center">
