@@ -42,19 +42,3 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📊 Coding & GitHub Analytics
-
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/anshjain1004" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
