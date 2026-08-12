@@ -32,20 +32,6 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -60,13 +46,14 @@
 <summary><b>DevSpace</b> — click to expand</summary>
 <br>
 
-Real-time collaborative development environment featuring real-time code execution & workspace tools.
+Real-time collaborative development platform featuring integrated chat, shared code editor, and document sharing.
 
 <br>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
 <a href="https://github.com/anshjain1004/DevSpace" target="_blank">![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)</a>
 
 </details>
