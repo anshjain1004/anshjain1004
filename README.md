@@ -32,15 +32,16 @@
 
 ---
 
+<!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-the.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-eight-the.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8&hide_border=false&hide=html,css" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-vercel-one.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-vercel-one.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
 </p>
 
 ---
