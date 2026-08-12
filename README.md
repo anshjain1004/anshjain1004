@@ -1,15 +1,17 @@
+# Ansh Jain | GitHub Profile README
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Jain;CS+Undergrad+%40+Medicaps+University;C%2B%2B+%26+Systems+%7C+DSA+Enthusiast" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Jain;CS+Undergrad+%40+Medicaps+University;C%2B%2B+%26+Systems+%7C+DSA+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Jain;CS+Undergrad+%40+Medicaps+University;C%2B%2B+%26+Systems+%7C+DSA+Enthusiast)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ansh-jain-8a5344282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/anshjain1004" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:en23cs301151@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/ansh-jain-8a5344282](https://linkedin.com/in/ansh-jain-8a5344282)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
+  <a href="[https://leetcode.com/anshjain1004](https://leetcode.com/anshjain1004)" target="_blank"><img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)" alt="LeetCode" /></a>
+  <a href="mailto:en23cs301151@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshjain1004&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=anshjain1004&style=for-the-badge&color=58A6FF](https://komarev.com/ghpvc/?username=anshjain1004&style=for-the-badge&color=58A6FF)" alt="Profile views" />
 </p>
 
 ---
@@ -32,19 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8&hide_border=true" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -53,18 +42,24 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Projects
 
-<details>
-<summary><b>VectorForge</b> — click to expand</summary>
+<details open>
+<summary><b>VectorForge</b></summary>
 <br>
-
 C++ vector search engine (HNSW / KD-Tree / BruteForce) with local RAG via Ollama.
-
-<br>
-
+<br><br>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+</details>
 
+<details open>
+<summary><b><a href="[https://github.com/anshjain1004/DevSpace](https://github.com/anshjain1004/DevSpace)" target="_blank">DevSpace</a></b></summary>
+<br>
+A project to centralize developer tools and links, making workflows more efficient.
+<br><br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 </details>
 
 ---
