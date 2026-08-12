@@ -35,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-eight-the.vercel.app/api?username=anshjain1004&show_icons=true&theme=dark&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-the.vercel.app/api/top-langs/?username=anshjain1004&layout=compact&theme=dark&border_radius=8&hide_border=false&hide=html,css" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshjain1004&theme=dark&border_radius=8" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,7 +53,22 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+<details>
+<summary><b>DevSpace</b> — click to expand</summary>
+<br>
+
+Real-time collaborative development environment featuring real-time code execution & workspace tools.
+
+<br>
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio)
+<a href="https://github.com/anshjain1004/DevSpace" target="_blank">![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)</a>
+
+</details>
 
 <details>
 <summary><b>VectorForge</b> — click to expand</summary>
