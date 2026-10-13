@@ -1,75 +1,33 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Jain;CS+Undergrad+%40+Medicaps+University;C%2B%2B+%26+Systems+%7C+DSA+Enthusiast" alt="Typing SVG" />
-</h1>
+# Hi, I'm Ansh Jain
 
-<p align="center">
-  <a href="https://linkedin.com/in/ansh-jain-8a5344282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/anshjain1004" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:en23cs301151@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+CS undergrad ('27) at Medicaps University. I build full-stack apps and C++ systems projects, and practice DSA regularly.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshjain1004&style=for-the-badge&color=58A6FF" alt="Profile views" />
-</p>
+[LinkedIn](https://linkedin.com/in/ansh-jain-8a5344282) · [LeetCode](https://leetcode.com/anshjain1004) · [Email](mailto:en23cs301151@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Skills
 
-**Languages**<br>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-
-**Web Development**<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages:** C++, Python, JavaScript, SQL
+**Web & Backend:** React, Node.js, Express.js, FastAPI, MySQL, SQLite
+**AI:** Gemini API, RAG (Ollama)
 
 ---
 
-### 🐍 Contribution Snake
+### Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshjain1004/anshjain1004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+**[DevSpace](https://github.com/anshjain1004/DevSpace)** · [Live Demo](https://devspace-k9s2.onrender.com/)
+Real-time collaborative code editor. Multiple users edit the same file in shared rooms, with live cursors, JWT auth and persistence.
+`React` `Node.js` `Socket.io` `Yjs` `SQLite`
 
----
+**[VectorForge](https://github.com/anshjain1004/VectorForge)**
+C++ vector search engine (HNSW / KD-Tree / BruteForce) with a local RAG pipeline via Ollama and disk-backed persistence.
+`C++17` `HNSW` `Ollama`
 
-### 🚀 Featured Projects
-
-<details>
-<summary><b>DevSpace</b> — click to expand</summary>
-<br>
-
-Real-time collaborative development platform featuring integrated chat, shared code editor, and document sharing.
-
-<br>
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
-<a href="https://github.com/anshjain1004/DevSpace" target="_blank">![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)</a>
-
-</details>
-
-<details>
-<summary><b>VectorForge</b> — click to expand</summary>
-<br>
-
-C++ vector search engine (HNSW / KD-Tree / BruteForce) with local RAG via Ollama.
-
-<br>
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-</details>
+**[SplitWise AI](https://github.com/anshjain1004/splitwise-ai)**
+Turns restaurant bill photos into a fair split. Gemini Vision reads the bill, and a deterministic Python engine does the math.
+`Python` `FastAPI` `Gemini API`
 
 ---
 
-<p align="center"><i>Open to feedback and interesting problems.</i></p>
+*Open to feedback and interesting problems.*
